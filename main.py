@@ -53,6 +53,3 @@ while True:
             break
         case _:
             print("No eligió la opción correcta")
-
-
-# resultado = menu_principal()
